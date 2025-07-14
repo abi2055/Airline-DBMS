@@ -1,0 +1,178 @@
+NAME                                                                                                 AGE         PERSONID    DIETARYPREF                                                                                         
+---------------------------------------------------------------------------------------------------- ----------- ----------- ----------------------------------------------------------------------------------------------------
+Debbie Bechtelar                                                                                              20       40834 Vegan                                                                                               
+Theresa Mraz                                                                                                  27       13627 Vegan                                                                                               
+Dexter Considine                                                                                              30       13756 Vegan                                                                                               
+Julie Braun                                                                                                   28       13792 Vegan                                                                                               
+Casey Lesch                                                                                                   30       13834 Vegan                                                                                               
+Brenda Morissette                                                                                             25       13940 Vegan                                                                                               
+Randal Mante                                                                                                  25       13944 Vegetarian                                                                                          
+Taylor Schaefer                                                                                               26       14304 Vegan                                                                                               
+Kristin Fritsch                                                                                               24       14318 Vegan                                                                                               
+Hope BeerI                                                                                                    26       14352 Vegan                                                                                               
+
+  10 record(s) selected.
+
+MODEL                                                                                                AMOUNT     
+---------------------------------------------------------------------------------------------------- -----------
+100                                                                                                            9
+101                                                                                                           18
+110                                                                                                           21
+114                                                                                                           15
+120                                                                                                           20
+124                                                                                                           23
+130                                                                                                           13
+134                                                                                                           12
+135                                                                                                           32
+140                                                                                                           21
+
+  10 record(s) selected.
+
+NAME                                                                                                 MODEL                                                                                                AMOUNT     
+---------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------- -----------
+Air Canada                                                                                           100                                                                                                            9
+Etihad Airways                                                                                       100                                                                                                            9
+United Airlines                                                                                      100                                                                                                            9
+Air Canada                                                                                           101                                                                                                           18
+Etihad Airways                                                                                       101                                                                                                           18
+United Airlines                                                                                      101                                                                                                           18
+Air Canada                                                                                           110                                                                                                           21
+Etihad Airways                                                                                       110                                                                                                           21
+United Airlines                                                                                      110                                                                                                           21
+Air Canada                                                                                           114                                                                                                           15
+
+  10 record(s) selected.
+
+TICKETNO                                           TOTAL_WEIGHT_AVG                 
+-------------------------------------------------- ---------------------------------
+1230038370                                           16.0000000000000000000000000000
+1230038371                                           28.0000000000000000000000000000
+1230038372                                           27.0000000000000000000000000000
+1230038373                                           23.0000000000000000000000000000
+1230038374                                           24.6666666666666666666666666666
+1230038375                                           12.0000000000000000000000000000
+1230038376                                           14.3333333333333333333333333333
+1230038377                                           39.7500000000000000000000000000
+1230038378                                           48.0000000000000000000000000000
+1230038379                                           73.3333333333333333333333333333
+
+  10 record(s) selected.
+
+TICKETNO                                           OVERSIZEDBAGGAGEWEIGHT           
+-------------------------------------------------- ---------------------------------
+
+  0 record(s) selected.
+
+TICKETNO                                           DEPDATE    MIN_PRICE    WEBSITE                                                                                             
+-------------------------------------------------- ---------- ------------ ----------------------------------------------------------------------------------------------------
+1230099579                                         11/07/2023       239.00 Booking.com                                                                                         
+1230099579                                         11/14/2023       239.00 Booking.com                                                                                         
+1230099579                                         11/21/2023       239.00 Booking.com                                                                                         
+1230099579                                         11/28/2023       239.00 Booking.com                                                                                         
+1230099579                                         12/05/2023       239.00 Booking.com                                                                                         
+1230099579                                         12/12/2023       239.00 Booking.com                                                                                         
+1230099579                                         12/19/2023       239.00 Booking.com                                                                                         
+1230099579                                         12/26/2023       239.00 Booking.com                                                                                         
+1230099579                                         01/02/2024       239.00 Booking.com                                                                                         
+1230099579                                         01/09/2024       239.00 Booking.com                                                                                         
+
+  10 record(s) selected.
+
+ROUTEID     NUMBER_OF_AIRLINES
+----------- ------------------
+       2932                  3
+      13289                  3
+      12974                  3
+
+  3 record(s) selected.
+
+ROUTEID     SRCAIRPORT DSTAIRPORT
+----------- ---------- ----------
+      12788 YIB        DEN       
+      12793 YIB        MEL       
+      12833 YIB        YIF       
+      12844 YIF        BOM       
+      12854 YIF        GRU       
+      12859 YIF        DTW       
+      12886 YIF        ZRH       
+      12891 YIF        GAJ       
+      12962 YPR        ABY       
+      12975 YPR        HTR       
+
+  10 record(s) selected.
+
+NUMSTAFFPASSENGERS
+------------------
+              6838
+
+  1 record(s) selected.
+
+
+10) Part 6b
+ALIAS                ALSO_PASSENGERS
+-------------------- ---------------
+A1F                                5
+AAC                                6
+AAD                                3
+AAG                                4
+AAH                                3
+AAI                                4
+AAJ                                5
+AAK                                4
+AAL                                8
+AAM                                4
+
+  10 record(s) selected.
+
+ROUTEID     SRCAIRPORT DSTAIRPORT
+----------- ---------- ----------
+       3425 CPT        MSP       
+      12189 YHO        HIJ       
+       2427 MCO        HTR       
+        385 HKG        ABL       
+       2756 TXL        AZO       
+       5365 CMN        CEM       
+       8565 ACT        ABL       
+      12853 YIF        KMJ       
+        488 CDG        ICN       
+       3003 YVR        RGN       
+
+  10 record(s) selected.
+
+ROUTEID     SRCAIRPORT DSTAIRPORT NUM_TICKETS_SOLD
+----------- ---------- ---------- ----------------
+       1643 YYZ        MCO                    4460
+
+  1 record(s) selected.
+
+FLIGHTNO                                          
+--------------------------------------------------
+AC137                                             
+AC149                                             
+AC237                                             
+AC243                                             
+AC251                                             
+AC297                                             
+AC324                                             
+AC338                                             
+AC345                                             
+AC355                                             
+
+  10 record(s) selected.
+
+ALIAS                AIRLINE_NAME                                                                                         COUNTRY_NAME                                                                                        
+-------------------- ---------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------
+AFR                  Air France                                                                                           France                                                                                              
+KLM                  KLM Royal Dutch Airlines                                                                             Netherlands                                                                                         
+DLH                  Lufthansa                                                                                            Germany                                                                                             
+SWR                  Swiss International Air Lines                                                                        Switzerland                                                                                         
+AUA                  Austrian Airlines                                                                                    Austria                                                                                             
+FIN                  Finnair                                                                                              Finland                                                                                             
+IBE                  Iberia                                                                                               Spain                                                                                               
+AZA                  Alitalia                                                                                             Italy                                                                                               
+TAP                  TAP Air Portugal                                                                                     Portugal                                                                                            
+THY                  Turkish Airlines                                                                                     Turkey                                                                                              
+
+  10 record(s) selected.
+
+
