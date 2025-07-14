@@ -30,6 +30,8 @@ This project is a full-scale **Airline Operations Database Management System** b
 2. Use the provided DDL scripts to create and populate the database on IBM DB2 or any compatible SQL database.
 3. Run the provided `.sql` query files to explore various airline operational insights.
 
+## ER Diagram
+![ER Diagram](./ER.png)
 ---
 
 ### Project Highlights:
