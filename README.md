@@ -31,7 +31,7 @@ This project is a full-scale **Airline Operations Database Management System** b
 3. Run the provided `.sql` query files to explore various airline operational insights.
 
 ## ER Diagram
-![ER Diagram](./ER.png)
+[📄 View ER Diagram (PDF)](./diagrams/ER_Diagram.pdf)
 ---
 
 ### Project Highlights:
